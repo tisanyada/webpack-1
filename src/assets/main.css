@@ -1,0 +1,47 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.main {
+	height: 100vh;
+	padding: 20px;
+	background-color: rgb(237, 220, 197);
+}
+
+#p-one,
+#p-two {
+	padding: 20px;
+	margin: 5px;
+	border-radius: 10px;
+	background-color: rgb(255, 255, 255);
+}
+
+#btn {
+	padding: 15px;
+	border: none;
+	margin: 10px;
+	color: white;
+	border-radius: 8px;
+	background-color: rgb(9, 138, 95);
+}
+#btn:hover {
+	transform: scale(0.95);
+}
+
+#out {
+	margin-top: 20px;
+	border-radius: 10px;
+	background-color: rgb(255, 255, 255);
+}
+#out  {
+	padding: 20px;
+}
+
+img{
+	width: 50%;
+	margin-top: 10px;
+	align-items: center;
+	justify-self: center;
+	border-radius: 10px;
+}
